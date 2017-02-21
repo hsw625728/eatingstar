@@ -60,7 +60,7 @@
 #pragma mark -
 #pragma mark Director - global variables (optimization)
 
-//CGFloat	__ccContentScaleFactor = 1;
+/*CGFloat*/float	__ccContentScaleFactor = 1;
 
 #pragma mark -
 #pragma mark Director
